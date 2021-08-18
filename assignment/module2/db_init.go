@@ -6,7 +6,7 @@
  * @Date: 2021/7/22 下午6:46
  */
 
-package module1
+package module2
 
 import (
 	"database/sql"
