@@ -28,7 +28,8 @@
 2. 
 
 ### 二 实现goim协议的解码器。
-
+> 有参考goim protocol包
+>https://github.com/Terry-Mao/goim/tree/master/api/protocol
 
 ## 参考
 
